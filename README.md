@@ -11,6 +11,3 @@ int main() {
     cout << n << endl;
 }
 ```
-changed from web
-
-changed from web 2
